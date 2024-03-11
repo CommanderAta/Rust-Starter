@@ -28,3 +28,4 @@ The `DATABASE_URL` environment variable must be set.
 ```commandline
 export DATABASE_URL=postgres://username:password@localhost:5432/diesel_demo
 ```
+ 
